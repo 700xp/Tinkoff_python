@@ -2,7 +2,8 @@
 Project for course from Tinkoff.
 Written with Jupiter notebook.
 
-The project analyzes user data using various analytical methods. All details are described in the file with code
+The project analyzes user data using various analytical methods. 
+All details are described in the file with code.
 
 required libraries to start locally:
-numpy, pandas, matplotlib
+Numpy, Pandas, Matplotlib.
