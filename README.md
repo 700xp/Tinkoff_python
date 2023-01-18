@@ -7,3 +7,5 @@ All details are described in the file with code.
 
 Required libraries to start locally:
 **Numpy**, **Pandas**, **Matplotlib**.
+
+File **input.xlsx** contains the table with information.
